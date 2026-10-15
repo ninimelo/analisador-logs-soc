@@ -1,0 +1,7 @@
+==================================================
+S.O.C. - RELATÓRIO DE INTRUSÃO AUTOMATIZADO
+Gerado em: 15/10/2026 11:51:38
+==================================================
+
+[ALERTA CRÍTICO] Ataque de Força Bruta! IP: 203.0.113.5 estourou o limite com 3 erros seguidos.
+[ALERTA MÉDIO] Varredura de Vulnerabilidades! IP: 198.51.100.12 buscou 3 diretórios protegidos.
